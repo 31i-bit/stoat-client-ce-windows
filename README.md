@@ -1,4 +1,4 @@
-# stoat-client-ce-windows
+# stoat-windows-client
 Releases of Stoat Community Edition by 31i-bit Client for Windows
 
 # 🐈‍⬛ Stoat Community Edition by 31i-bit
