@@ -36,7 +36,7 @@ A more convenient Windows desktop client for **Stoat Retail and self-hosted Stoa
 
 ### Download / Herunterladen
 
-Get the latest version from [GitHub Releases](https://github.com/31i-bit/stoat-ce-releases/releases).
+Get the latest version from [GitHub Releases](https://github.com/31i-bit/stoat-windows-client/releases).
 
 **Platform:** Windows 10/11 · x64
 
