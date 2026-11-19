@@ -17,6 +17,12 @@ Ein komfortabler Windows-Desktop-Client für **Stoat Retail und selbst gehostete
 
 **Unser Ziel:** Stoat nicht ersetzen, sondern die Desktop-Nutzung komfortabler machen.
 
+Ein Hinweis zur Windows-Sicherheit:
+Die Anwendung durchläuft derzeit die Sicherheitsüberprüfung durch Microsoft. Bis dieser Prozess abgeschlossen ist, können Windows Defender oder andere Sicherheitssoftware Warnmeldungen anzeigen – insbesondere im Hinblick auf den optionalen PTT-Helfer, der bei expliziter Aktivierung mit erweiterten Berechtigungen arbeitet.
+
+Das Projekt ist ein Community-Projekt und keine offizielle Veröffentlichung von Stoat. Der Quellcode unserer Modifikationen ist noch nicht öffentlich zugänglich.
+
+
 ## English 🇬🇧
 
 A more convenient Windows desktop client for **Stoat Retail and self-hosted Stoat servers**.
@@ -32,6 +38,10 @@ A more convenient Windows desktop client for **Stoat Retail and self-hosted Stoa
 
 **Our goal:** Not to replace Stoat, but to make the desktop experience better.
 
+A note about Windows security:
+The application is currently undergoing Microsoft's security review. Until that process is complete, Windows Defender or other security software may display warnings, especially for the optional PTT helper, which uses elevated permissions when explicitly enabled.
+
+The project is community-driven and not an official Stoat release. The source code of our modifications is not yet publicly available.
 ---
 
 ### Download / Herunterladen
@@ -39,5 +49,3 @@ A more convenient Windows desktop client for **Stoat Retail and self-hosted Stoa
 Get the latest version from [GitHub Releases](https://github.com/31i-bit/stoat-windows-client/releases).
 
 **Platform:** Windows 10/11 · x64
-
-Independent community project by **31i-bit**. Not an official Stoat release.
