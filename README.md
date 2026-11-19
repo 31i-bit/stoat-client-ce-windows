@@ -42,7 +42,8 @@ A note about Windows security:
 The application is currently undergoing Microsoft's security review. Until that process is complete, Windows Defender or other security software may display warnings, especially for the optional PTT helper, which uses elevated permissions when explicitly enabled.
 
 The project is community-driven and not an official Stoat release. The source code of our modifications is not yet publicly available.
----
+
+
 
 ### Download / Herunterladen
 
