@@ -50,3 +50,28 @@ The project is community-driven and not an official Stoat release. The source co
 Get the latest version from [GitHub Releases](https://github.com/31i-bit/stoat-windows-client/releases).
 
 **Platform:** Windows 10/11 · x64
+
+
+## Screenshots / Bildschirmfotos
+---
+
+### Server selection / Serverauswahl
+
+**Choose your server / Server auswählen**
+
+![Server selection](images/server-selection.png)
+
+**Private server connection / Privaten Server verbinden**
+
+![Private server connection](images/server-select.png)
+
+### Desktop controls / Desktop-Steuerung
+
+| Push-to-Talk / PTT | Global hotkeys / Globale Hotkeys |
+|:--:|:--:|
+| ![PTT settings](images/ptt-settings.png) | ![Hotkey settings](images/hotkey-settings.png) |
+
+### Windows installer / Windows-Installer
+
+![Windows installer](images/installer.png)
+  
